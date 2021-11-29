@@ -1,7 +1,7 @@
 ### Hi there, I'm Nasrullah 👋 
 
 [![Website](https://img.shields.io/website?label=nasrullah.id&style=for-the-badge&url=https%3A%2F%2Fnasrullah.id)](https://nasrullah.id)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nasrullahID?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnasrullahid&screen_name=nasrullahid)
+
 
 ## I'm a Husband, Father, Developer, and Owner!!
 
