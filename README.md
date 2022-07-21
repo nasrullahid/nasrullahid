@@ -5,10 +5,10 @@
 
 ## I'm a Husband, Father, Developer, and Owner!!
 
-- 🔭 I just launched my first course: [MentorBox Indonesia][course]!
+- 🔭 I just launched courses platform: [MentorBox Indonesia][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developer, content creators, bussines owner
+- 🥅 2022 Goals: Contribute more to Open Source projects and create more apps/website for education
 
 ### Connect with me:
 
