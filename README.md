@@ -5,12 +5,11 @@
 [![Website](https://img.shields.io/website?label=mentorbox.id&style=for-the-badge&url=https%3A%2F%2Fmentorbox.id)](https://mentorbox.id)
 
 
-## I'm a Husband, Father, Developer, and Owner!!
+## I'm a Husband, Father, and Fullstack Developer!!!
 
 - 🔭 I just launched courses platform: [MentorBox Indonesia][mbid] & [CPNS Online][coid]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer, content creators, bussines owner
-- 🥅 2022 Goals: Contribute more to Open Source projects and create more apps/website for education
 
 ### Connect with me:
 
@@ -39,7 +38,9 @@
 <br />
 <br />
 
-<img align="left" alt="nasrullahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nasrullahid&show_icons=true" />
+  ![Nasrullahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasrullahid&show_icons=true&theme=onedark,prs)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrullahid&langs_count=8&layout=compact)
+
 
 [website]: https://nasrullah.id
 [coid]:https://cpnsonline.id
