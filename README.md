@@ -5,8 +5,6 @@
 [![Website](https://img.shields.io/website?label=mentorbox.id&style=for-the-badge&url=https%3A%2F%2Fmentorbox.id)](https://mentorbox.id)
 
 
-## I'm a Husband, Father, and Fullstack Developer!!!
-
 - 🔭 I just launched courses platform: [MentorBox Indonesia][mbid] & [CPNS Online][coid]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer, content creators, bussines owner
