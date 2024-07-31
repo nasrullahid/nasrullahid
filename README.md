@@ -19,6 +19,10 @@
 [<img align="left" alt="nasrullahID | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+
+[![wakatime](https://wakatime.com/badge/user/89ffd50f-0da8-4904-9e04-eee13b6380fc.svg)](https://wakatime.com/@89ffd50f-0da8-4904-9e04-eee13b6380fc)
 
 ### Languages and Tools:
 
