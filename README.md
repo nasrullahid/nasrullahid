@@ -24,7 +24,8 @@ The holding company anchoring my business ventures. Represents multiple subsidia
 **Currently designing:** Brand integration across subsidiaries, cohesive digital ecosystem, modernized web presence reflecting Sulawesi heritage.
 
 **Subsidiaries:**
-- **[PT Magau Jaya Daya](https://ptmjd.id)** — Our operational hub and core business entity
+- **[PT Magau Jaya Digital](https://ptmjd.id)** — Software & technology arm. Builds SaaS products, custom web platforms, and digital infrastructure for the Indonesian market.
+- **[PT LPK Mentorbox Indonesia](https://mentorbox.id)** — BNSP-registered vocational training & professional certification institution. Runs structured upskilling programs and competency certification aligned with national standards.
 
 #### **[nasrullah.id](https://nasrullah.id)** — Personal Brand & Portfolio
 My corner of the internet. Where I share projects, learnings, and occasionally random thoughts about tech, business, and design. Minimal aesthetic, maximum signal.
